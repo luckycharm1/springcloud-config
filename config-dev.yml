@@ -1,4 +1,4 @@
 config:
- server: 123
+ server: 服务
  port: 3344
 
